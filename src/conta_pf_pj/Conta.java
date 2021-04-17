@@ -1,4 +1,4 @@
-package polimorfismo_conta;
+package conta_pf_pj;
 
 import java.util.Scanner;
 

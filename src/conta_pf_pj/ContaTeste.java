@@ -1,4 +1,4 @@
-package polimorfismo_conta;
+package conta_pf_pj;
 
 public class ContaTeste {
     public static void main(String[] args) {
