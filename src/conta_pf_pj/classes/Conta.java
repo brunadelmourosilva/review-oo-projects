@@ -1,4 +1,4 @@
-package conta_pf_pj;
+package conta_pf_pj.classes;
 
 import java.util.Scanner;
 

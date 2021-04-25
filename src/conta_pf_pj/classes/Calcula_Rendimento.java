@@ -1,4 +1,9 @@
-package conta_pf_pj;
+package conta_pf_pj.classes;
+
+import conta_pf_pj.classes.Conta;
+import conta_pf_pj.classes.ContaPF;
+import conta_pf_pj.classes.ContaPJ;
+import conta_pf_pj.classes.Tipo;
 
 public class Calcula_Rendimento {
 

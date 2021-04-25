@@ -1,4 +1,8 @@
-package conta_pf_pj;
+package conta_pf_pj.test;
+
+import conta_pf_pj.classes.Calcula_Rendimento;
+import conta_pf_pj.classes.ContaPF;
+import conta_pf_pj.classes.ContaPJ;
 
 public class ContaTeste {
     public static void main(String[] args) {

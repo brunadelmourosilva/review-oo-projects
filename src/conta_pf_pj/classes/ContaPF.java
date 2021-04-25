@@ -1,6 +1,6 @@
-package conta_pf_pj;
+package conta_pf_pj.classes;
 
-public class ContaPF extends Conta{
+public class ContaPF extends Conta {
     private String cpf;
 
     public ContaPF(String titular, double saldo, String numero, String cpf) {
